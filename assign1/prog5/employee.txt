@@ -1,0 +1,5 @@
+aman 20
+vish 21
+deba 55
+jyoti 20
+siku 32
